@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>woodi97 - Portfolio</title>
+      <link>https://woodi97.github.io//blog</link>
+      <description>Walkthrough of My Learning Journey</description>
+      <language>ko-KR</language>
+      <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
+      <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
+      <lastBuildDate>Tue, 01 Feb 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://woodi97.github.io//tags/next-js/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://woodi97.github.io//blog/how-to-make-advent-calendar</guid>
+    <title>How to make Advent Calendar</title>
+    <link>https://woodi97.github.io//blog/how-to-make-advent-calendar</link>
+    <description>Introducing React-Dates for Calendar Component</description>
+    <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>react js</category><category>next js</category><category>components</category>
+  </item>
+
+  <item>
+    <guid>https://woodi97.github.io//blog/deriving-ols-estimator</guid>
+    <title>Deriving the OLS Estimator</title>
+    <link>https://woodi97.github.io//blog/deriving-ols-estimator</link>
+    <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
+    <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>next js</category><category>math</category><category>ols</category>
+  </item>
+
+    </channel>
+  </rss>
