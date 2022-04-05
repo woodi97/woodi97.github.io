@@ -8,18 +8,8 @@
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
       <lastBuildDate>Mon, 04 Apr 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://woodi97.github.io//tags/socket-programming/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://woodi97.github.io//tags/webrtc/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://woodi97.github.io//blog/handling-golang-socket</guid>
-    <title>Handling Golang Socket</title>
-    <link>https://woodi97.github.io//blog/handling-golang-socket</link>
-    <description>introduce golang socket programming</description>
-    <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-    <author>woodi.daily@gmail.com (WOODI)</author>
-    <category>golang</category><category>socket-programming</category>
-  </item>
-
   <item>
     <guid>https://woodi97.github.io//blog/handling-webrtc-using-peerjs</guid>
     <title>Handling WebRTC using PeerJS</title>
