@@ -7,17 +7,17 @@
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
-      <lastBuildDate>Thu, 06 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 07 Apr 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//tags/algorithm/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://woodi97.github.io//blog/stable-vs-unstable-sort</guid>
-    <title>stable vs unstable sort</title>
-    <link>https://woodi97.github.io//blog/stable-vs-unstable-sort</link>
-    <description>difference between stable and unstable sort</description>
-    <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+    <guid>https://woodi97.github.io//blog/algorithm-remove-duplicate-vector-elements</guid>
+    <title>Algorithm - Remove Duplicate Vector Elements</title>
+    <link>https://woodi97.github.io//blog/algorithm-remove-duplicate-vector-elements</link>
+    <description>remove duplicate elems on c++ program</description>
+    <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
-    <category>algorithm</category>
+    <category>c++</category><category>algorithm</category>
   </item>
 
     </channel>

@@ -7,9 +7,19 @@
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
-      <lastBuildDate>Mon, 04 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 07 Apr 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://woodi97.github.io//blog/algorithm-remove-duplicate-vector-elements</guid>
+    <title>Algorithm - Remove Duplicate Vector Elements</title>
+    <link>https://woodi97.github.io//blog/algorithm-remove-duplicate-vector-elements</link>
+    <description>remove duplicate elems on c++ program</description>
+    <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>c++</category><category>algorithm</category>
+  </item>
+
   <item>
     <guid>https://woodi97.github.io//blog/handling-golang-socket</guid>
     <title>Handling Golang Socket</title>
@@ -18,16 +28,6 @@
     <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>golang</category><category>socket-programming</category>
-  </item>
-
-  <item>
-    <guid>https://woodi97.github.io//blog/handling-webrtc-using-peerjs</guid>
-    <title>Handling WebRTC using PeerJS</title>
-    <link>https://woodi97.github.io//blog/handling-webrtc-using-peerjs</link>
-    <description>Error handling journey while making voice-chat SNS</description>
-    <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-    <author>woodi.daily@gmail.com (WOODI)</author>
-    <category>reactjs</category><category>nextjs</category><category>socket-programming</category><category>webrtc</category>
   </item>
 
   <item>

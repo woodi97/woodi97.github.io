@@ -20,15 +20,5 @@
     <category>golang</category><category>socket-programming</category>
   </item>
 
-  <item>
-    <guid>https://woodi97.github.io//blog/handling-webrtc-using-peerjs</guid>
-    <title>Handling WebRTC using PeerJS</title>
-    <link>https://woodi97.github.io//blog/handling-webrtc-using-peerjs</link>
-    <description>Error handling journey while making voice-chat SNS</description>
-    <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-    <author>woodi.daily@gmail.com (WOODI)</author>
-    <category>reactjs</category><category>nextjs</category><category>socket-programming</category><category>webrtc</category>
-  </item>
-
     </channel>
   </rss>
