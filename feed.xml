@@ -11,19 +11,19 @@
       <atom:link href="https://woodi97.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://woodi97.github.io//blog/algorithm-remove-duplicate-vector-elements</guid>
+    <guid>https://woodi97.github.io//blog/algorithm/algorithm-remove-duplicate-vector-elements</guid>
     <title>Algorithm - Remove Duplicate Vector Elements</title>
-    <link>https://woodi97.github.io//blog/algorithm-remove-duplicate-vector-elements</link>
+    <link>https://woodi97.github.io//blog/algorithm/algorithm-remove-duplicate-vector-elements</link>
     <description>remove duplicate elems on c++ program</description>
     <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
-    <category>c++</category><category>algorithm</category>
+    <category>c++</category><category>stl</category><category>algorithm</category>
   </item>
 
   <item>
-    <guid>https://woodi97.github.io//blog/handling-golang-socket</guid>
+    <guid>https://woodi97.github.io//blog/network/handling-golang-socket</guid>
     <title>Handling Golang Socket</title>
-    <link>https://woodi97.github.io//blog/handling-golang-socket</link>
+    <link>https://woodi97.github.io//blog/network/handling-golang-socket</link>
     <description>introduce golang socket programming</description>
     <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://woodi97.github.io//blog/pagetransition-animation-using-framer-motion</guid>
+    <guid>https://woodi97.github.io//blog/reactjs/pagetransition-animation-using-framer-motion</guid>
     <title>PageTransition Animation using Framer Motion</title>
-    <link>https://woodi97.github.io//blog/pagetransition-animation-using-framer-motion</link>
+    <link>https://woodi97.github.io//blog/reactjs/pagetransition-animation-using-framer-motion</link>
     <description>Guide to apply pagetransition animation using framer-motion</description>
     <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://woodi97.github.io//blog/ways-to-optimize-your-nextjs-application</guid>
+    <guid>https://woodi97.github.io//blog/reactjs/ways-to-optimize-your-nextjs-application</guid>
     <title>Ways to Optimize your React/Nextjs Application</title>
-    <link>https://woodi97.github.io//blog/ways-to-optimize-your-nextjs-application</link>
+    <link>https://woodi97.github.io//blog/reactjs/ways-to-optimize-your-nextjs-application</link>
     <description>apply tree-shaking &amp; constate on my app</description>
     <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
@@ -51,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://woodi97.github.io//blog/how-to-make-advent-calendar</guid>
+    <guid>https://woodi97.github.io//blog/project/how-to-make-advent-calendar</guid>
     <title>How to make Advent Calendar</title>
-    <link>https://woodi97.github.io//blog/how-to-make-advent-calendar</link>
+    <link>https://woodi97.github.io//blog/project/how-to-make-advent-calendar</link>
     <description>Introducing React-Dates for Calendar Component</description>
     <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
@@ -61,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://woodi97.github.io//blog/deriving-ols-estimator</guid>
+    <guid>https://woodi97.github.io//blog/etc/deriving-ols-estimator</guid>
     <title>Deriving the OLS Estimator</title>
-    <link>https://woodi97.github.io//blog/deriving-ols-estimator</link>
+    <link>https://woodi97.github.io//blog/etc/deriving-ols-estimator</link>
     <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
     <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
