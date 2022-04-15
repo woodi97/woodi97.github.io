@@ -12,9 +12,9 @@
       
   <item>
     <guid>https://woodi97.github.io//blog/translation/golang-code-convention</guid>
-    <title>Translation; Golang Code Convention</title>
+    <title>[Translation] Golang Code Convention</title>
     <link>https://woodi97.github.io//blog/translation/golang-code-convention</link>
-    <description>translation of golang code convention</description>
+    <description>Go언어 코드 규칙을 적용하는 방법을 소개합니다.</description>
     <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>golang</category><category>convention</category><category>translation</category>
@@ -22,7 +22,7 @@
 
   <item>
     <guid>https://woodi97.github.io//blog/algorithm/algorithm-remove-duplicate-vector-elements</guid>
-    <title>Algorithm; Remove Duplicate Vector Elements</title>
+    <title>[Algorithm] Remove Duplicate Vector Elements</title>
     <link>https://woodi97.github.io//blog/algorithm/algorithm-remove-duplicate-vector-elements</link>
     <description>remove duplicate elems on c++ program</description>
     <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
