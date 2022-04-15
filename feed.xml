@@ -7,12 +7,22 @@
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
-      <lastBuildDate>Thu, 07 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 11 Apr 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
+    <guid>https://woodi97.github.io//blog/translation/golang-code-convention</guid>
+    <title>Translation; Golang Code Convention</title>
+    <link>https://woodi97.github.io//blog/translation/golang-code-convention</link>
+    <description>translation of golang code convention</description>
+    <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>golang</category><category>convention</category><category>translation</category>
+  </item>
+
+  <item>
     <guid>https://woodi97.github.io//blog/algorithm/algorithm-remove-duplicate-vector-elements</guid>
-    <title>Algorithm - Remove Duplicate Vector Elements</title>
+    <title>Algorithm; Remove Duplicate Vector Elements</title>
     <link>https://woodi97.github.io//blog/algorithm/algorithm-remove-duplicate-vector-elements</link>
     <description>remove duplicate elems on c++ program</description>
     <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
