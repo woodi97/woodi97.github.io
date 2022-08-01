@@ -20,5 +20,15 @@
     <category>reactjs</category><category>nextjs</category><category>javascript</category>
   </item>
 
+  <item>
+    <guid>https://woodi97.github.io//blog/javascript/what-is-throttle-debounce</guid>
+    <title>What is throttle &amp; debounce</title>
+    <link>https://woodi97.github.io//blog/javascript/what-is-throttle-debounce</link>
+    <description>Simple summary of throttle &amp; debounce function</description>
+    <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>javascript</category>
+  </item>
+
     </channel>
   </rss>
