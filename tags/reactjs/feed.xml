@@ -14,7 +14,7 @@
     <guid>https://woodi97.github.io//blog/reactjs/implement-reflow-prevented-lazy-loading-image-component</guid>
     <title>Improve React Image Component</title>
     <link>https://woodi97.github.io//blog/reactjs/implement-reflow-prevented-lazy-loading-image-component</link>
-    <description>implement reflow prevented &amp; load only observed image component</description>
+    <description>implement reflow prevented &amp; load when observed image component</description>
     <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>reactjs</category><category>javascript</category>
