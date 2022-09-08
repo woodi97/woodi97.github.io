@@ -3,7 +3,7 @@
     <channel>
       <title>woodi97 - Portfolio</title>
       <link>https://woodi97.github.io//blog</link>
-      <description>Walkthrough of My Learning Journey</description>
+      <description>깊이있는 개발자가 되기 위한 노력</description>
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
@@ -12,9 +12,9 @@
       
   <item>
     <guid>https://woodi97.github.io//blog/reactjs/implement-reflow-prevented-lazy-loading-image-component</guid>
-    <title>Improve React Image Component</title>
+    <title>개선된 &lt;img/&gt; 컴포넌트 제작기</title>
     <link>https://woodi97.github.io//blog/reactjs/implement-reflow-prevented-lazy-loading-image-component</link>
-    <description>implement reflow prevented &amp; load when observed image component</description>
+    <description>Reflow를 줄이고 렌더링 성능을 개선한 &lt;img/&gt; 컴포넌트 제작기</description>
     <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>reactjs</category><category>javascript</category>
@@ -22,9 +22,9 @@
 
   <item>
     <guid>https://woodi97.github.io//blog/reactjs/making-full-page-scroll-effect</guid>
-    <title>Making Full Page Scroll Effect</title>
+    <title>Full Page Scroll Effect 만드는법</title>
     <link>https://woodi97.github.io//blog/reactjs/making-full-page-scroll-effect</link>
-    <description>Encountered Problem When Making Full Page Scroll Effect</description>
+    <description>Full Page Scroll Effect 만들면서 생긴 이슈들을 정리해보았습니다.</description>
     <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>reactjs</category><category>nextjs</category><category>javascript</category>

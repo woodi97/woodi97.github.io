@@ -3,7 +3,7 @@
     <channel>
       <title>woodi97 - Portfolio</title>
       <link>https://woodi97.github.io//blog</link>
-      <description>Walkthrough of My Learning Journey</description>
+      <description>깊이있는 개발자가 되기 위한 노력</description>
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
@@ -12,9 +12,9 @@
       
   <item>
     <guid>https://woodi97.github.io//blog/university/senior/network/network-app-design-course-lecture-1-2</guid>
-    <title>[Network App &amp; Design Course] lecture 1-2</title>
+    <title>[네트워크응용설계] 강의 1-2 정리</title>
     <link>https://woodi97.github.io//blog/university/senior/network/network-app-design-course-lecture-1-2</link>
-    <description>summary for network application &amp; design course lecture 1-2</description>
+    <description>네트워크응용설계 강의 1-2 정리</description>
     <pubDate>Sun, 17 Apr 2022 15:02:03 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>network</category><category>cse</category>
@@ -22,9 +22,9 @@
 
   <item>
     <guid>https://woodi97.github.io//blog/university/senior/network/network-app-design-course-lecture-1-1</guid>
-    <title>[Network App &amp; Design Course] lecture 1-1</title>
+    <title>[네트워크응용설계] 강의 1-1 정리</title>
     <link>https://woodi97.github.io//blog/university/senior/network/network-app-design-course-lecture-1-1</link>
-    <description>summary for network application &amp; design course lecture 1-1</description>
+    <description>네트워크응용설계 강의 1-1 정리</description>
     <pubDate>Sun, 17 Apr 2022 15:01:47 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>network</category><category>cse</category>

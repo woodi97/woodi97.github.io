@@ -3,7 +3,7 @@
     <channel>
       <title>woodi97 - Portfolio</title>
       <link>https://woodi97.github.io//blog</link>
-      <description>Walkthrough of My Learning Journey</description>
+      <description>깊이있는 개발자가 되기 위한 노력</description>
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
@@ -12,9 +12,9 @@
       
   <item>
     <guid>https://woodi97.github.io//blog/translation/golang-code-convention</guid>
-    <title>[Translation] Golang Code Convention</title>
+    <title>[번역] Golang - 코드 컨벤션</title>
     <link>https://woodi97.github.io//blog/translation/golang-code-convention</link>
-    <description>Go언어 코드 규칙을 적용하는 방법을 소개합니다.</description>
+    <description>Golang의 코드 컨벤션에 대해 알아봅니다.</description>
     <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>golang</category><category>convention</category><category>translation</category>

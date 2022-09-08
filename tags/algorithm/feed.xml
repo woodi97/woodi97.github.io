@@ -3,7 +3,7 @@
     <channel>
       <title>woodi97 - Portfolio</title>
       <link>https://woodi97.github.io//blog</link>
-      <description>Walkthrough of My Learning Journey</description>
+      <description>깊이있는 개발자가 되기 위한 노력</description>
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
@@ -12,9 +12,9 @@
       
   <item>
     <guid>https://woodi97.github.io//blog/algorithm/algorithm-python-basics-01</guid>
-    <title>[Algorithm] Python Basics - 01</title>
+    <title>[알고리즘] 파이썬 기초 - 01</title>
     <link>https://woodi97.github.io//blog/algorithm/algorithm-python-basics-01</link>
-    <description>python basic for algorithm</description>
+    <description>알고리즘을 위한 파이썬 기초 문법을 정리해보았습니다.</description>
     <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>algorithm</category><category>python</category>
