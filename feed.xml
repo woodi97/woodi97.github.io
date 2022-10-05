@@ -111,16 +111,6 @@
   </item>
 
   <item>
-    <guid>https://woodi97.github.io//blog/network/handling-golang-socket</guid>
-    <title>Handling Golang Socket</title>
-    <link>https://woodi97.github.io//blog/network/handling-golang-socket</link>
-    <description>introduce golang socket programming</description>
-    <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-    <author>woodi.daily@gmail.com (WOODI)</author>
-    <category>golang</category><category>socket-programming</category>
-  </item>
-
-  <item>
     <guid>https://woodi97.github.io//blog/reactjs/pagetransition-animation-using-framer-motion</guid>
     <title>PageTransition Animation using Framer Motion</title>
     <link>https://woodi97.github.io//blog/reactjs/pagetransition-animation-using-framer-motion</link>
