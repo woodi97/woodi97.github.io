@@ -7,9 +7,19 @@
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
-      <lastBuildDate>Wed, 05 Oct 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 13 Oct 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://woodi97.github.io//blog/reactjs/optimize-script-loading-on-react</guid>
+    <title>Script 태그 onDemand 로딩하기</title>
+    <link>https://woodi97.github.io//blog/reactjs/optimize-script-loading-on-react</link>
+    <description>특정 페이지에서만 사용하는 스크립트를 onDemand 로딩하기</description>
+    <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>reactjs</category><category>nextjs</category>
+  </item>
+
   <item>
     <guid>https://woodi97.github.io//blog/components/create-native-like-image-slider-component</guid>
     <title>네이티브 Like 이미지 슬라이더 제작기</title>
