@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>woodi97 - Portfolio</title>
+      <link>https://woodi97.github.io//blog</link>
+      <description>깊이있는 개발자가 되기 위한 노력</description>
+      <language>ko-KR</language>
+      <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
+      <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
+      <lastBuildDate>Tue, 03 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://woodi97.github.io//tags/graphql/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://woodi97.github.io//blog/translation/graphql-mutations</guid>
+    <title>[번역] Relay - Graphql mutations</title>
+    <link>https://woodi97.github.io//blog/translation/graphql-mutations</link>
+    <description>Relay 문서의 Graphql Mutation 항목 번역</description>
+    <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>graphql</category><category>relay</category>
+  </item>
+
+    </channel>
+  </rss>

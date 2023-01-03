@@ -7,9 +7,19 @@
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
-      <lastBuildDate>Thu, 13 Oct 2022 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 03 Jan 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://woodi97.github.io//blog/translation/graphql-mutations</guid>
+    <title>[번역] Relay - Graphql mutations</title>
+    <link>https://woodi97.github.io//blog/translation/graphql-mutations</link>
+    <description>Relay 문서의 Graphql Mutation 항목 번역</description>
+    <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>graphql</category><category>relay</category>
+  </item>
+
   <item>
     <guid>https://woodi97.github.io//blog/reactjs/optimize-script-loading-on-react</guid>
     <title>Script 태그 onDemand 로딩하기</title>
