@@ -7,15 +7,25 @@
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
-      <lastBuildDate>Mon, 09 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 09 Jan 2023 08:10:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//tags/relay/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://woodi97.github.io//blog/translation/graphql-queries-for-interactions</guid>
+    <title>[번역] Relay - Graphql Queries for Interactions</title>
+    <link>https://woodi97.github.io//blog/translation/graphql-queries-for-interactions</link>
+    <description>Relay 문서의 Graphql Queries for Interactions 항목 번역</description>
+    <pubDate>Mon, 09 Jan 2023 08:10:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>graphql</category><category>relay</category>
+  </item>
+
   <item>
     <guid>https://woodi97.github.io//blog/translation/graphql-arraysNlists</guid>
     <title>[번역] Relay - Graphql Arrays and Lists</title>
     <link>https://woodi97.github.io//blog/translation/graphql-arraysNlists</link>
     <description>Relay 문서의 Graphql Arrays and Lists 항목 번역</description>
-    <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 09 Jan 2023 07:49:00 GMT</pubDate>
     <author>woodi.daily@gmail.com (WOODI)</author>
     <category>graphql</category><category>relay</category>
   </item>
