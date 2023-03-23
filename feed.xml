@@ -7,9 +7,49 @@
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
       <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
-      <lastBuildDate>Thu, 26 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 22 Mar 2023 03:45:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://woodi97.github.io//blog/typescript/effective-typescript-second</guid>
+    <title>Effective Typescript 정리 - 2</title>
+    <link>https://woodi97.github.io//blog/typescript/effective-typescript-second</link>
+    <description>Effective Typescript 정리 - 2</description>
+    <pubDate>Wed, 22 Mar 2023 03:45:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>typescript</category>
+  </item>
+
+  <item>
+    <guid>https://woodi97.github.io//blog/typescript/effective-typescript-first</guid>
+    <title>Effective Typescript 정리 - 1</title>
+    <link>https://woodi97.github.io//blog/typescript/effective-typescript-first</link>
+    <description>Effective Typescript 정리 - 1</description>
+    <pubDate>Wed, 22 Mar 2023 02:45:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>typescript</category>
+  </item>
+
+  <item>
+    <guid>https://woodi97.github.io//blog/reactjs/why-should-not-use-reactfc</guid>
+    <title>Why React.FC is not recommended</title>
+    <link>https://woodi97.github.io//blog/reactjs/why-should-not-use-reactfc</link>
+    <description>React.FC is not recommended</description>
+    <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>reactjs</category>
+  </item>
+
+  <item>
+    <guid>https://woodi97.github.io//blog/translation/react-index-as-a-key</guid>
+    <title>[번역] React - Index를 Key로 사용하는 것이 Anti-pattern인 이유</title>
+    <link>https://woodi97.github.io//blog/translation/react-index-as-a-key</link>
+    <description>React에서 Index를 Key로 사용하는 것이 Anti-pattern인 이유에 대해 알아보자.</description>
+    <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (WOODI)</author>
+    <category>reactjs</category>
+  </item>
+
   <item>
     <guid>https://woodi97.github.io//blog/translation/graphql-connections-n-pagination</guid>
     <title>[번역] Relay - Graphql Connections &amp; Pagination</title>
