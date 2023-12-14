@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>woodi97 - Portfolio</title>
+      <title>woodi97.github.io</title>
       <link>https://woodi97.github.io//blog</link>
-      <description>개발과 관련된 이야기를 적는 공간입니다.</description>
+      <description>이유를 찾는 개발블로그</description>
       <language>ko-KR</language>
-      <managingEditor>woodi.daily@gmail.com (WOODI)</managingEditor>
-      <webMaster>woodi.daily@gmail.com (WOODI)</webMaster>
+      <managingEditor>woodi.daily@gmail.com (woodi97)</managingEditor>
+      <webMaster>woodi.daily@gmail.com (woodi97)</webMaster>
       <lastBuildDate>Thu, 07 Apr 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//tags/c/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://woodi97.github.io//blog/algorithm/algorithm-remove-duplicate-vector-elements</link>
     <description>remove duplicate elems on c++ program</description>
     <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-    <author>woodi.daily@gmail.com (WOODI)</author>
+    <author>woodi.daily@gmail.com (woodi97)</author>
     <category>c++</category><category>stl</category><category>algorithm</category>
   </item>
 

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>woodi97.github.io</title>
+      <link>https://woodi97.github.io//blog</link>
+      <description>이유를 찾는 개발블로그</description>
+      <language>ko-KR</language>
+      <managingEditor>woodi.daily@gmail.com (woodi97)</managingEditor>
+      <webMaster>woodi.daily@gmail.com (woodi97)</webMaster>
+      <lastBuildDate>Wed, 22 Nov 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://woodi97.github.io//tags/review/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://woodi97.github.io//blog/draft/illusion-it-is-the-new-tech</guid>
+    <title>최신기술이라는 착각</title>
+    <link>https://woodi97.github.io//blog/draft/illusion-it-is-the-new-tech</link>
+    <description>ㄱ 길었던 2023년을 마무리하며</description>
+    <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (woodi97)</author>
+    <category>review</category><category>growth</category>
+  </item>
+
+    </channel>
+  </rss>
