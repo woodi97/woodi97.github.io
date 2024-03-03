@@ -3,13 +3,23 @@
     <channel>
       <title>woodi97.github.io</title>
       <link>https://woodi97.github.io//blog</link>
-      <description>이유를 찾는 개발블로그</description>
+      <description>Beyond contentment, greatness</description>
       <language>ko-KR</language>
       <managingEditor>woodi.daily@gmail.com (woodi97)</managingEditor>
       <webMaster>woodi.daily@gmail.com (woodi97)</webMaster>
-      <lastBuildDate>Sun, 04 Jun 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://woodi97.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://woodi97.github.io//blog/personal/happy-dev</guid>
+    <title>개발</title>
+    <link>https://woodi97.github.io//blog/personal/happy-dev</link>
+    
+    <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+    <author>woodi.daily@gmail.com (woodi97)</author>
+    <category>diary</category>
+  </item>
+
   <item>
     <guid>https://woodi97.github.io//blog/javascript/flat-color-token-object-for-vanilla-extract</guid>
     <title>Vanilla Extract CSS를 위한 ColorToken Flattening하기(feat. Typescript)</title>
